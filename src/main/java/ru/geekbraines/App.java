@@ -24,5 +24,6 @@ public class App {
         d3.run(200);
         d3.run(600);
         a1.run(-1);
+        a1.run(10);
     }
 }
